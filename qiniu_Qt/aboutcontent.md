@@ -4,3 +4,7 @@
 软件介绍：http://blog.csdn.net/tianzhihen_wq/article/details/53045653
 如果你觉得不错，请不要吝惜一个Star，我需要鼓励！
 如果你觉得还有修改的空间，请提Issues，或者直接Fork进行提交！
+
+
+
+[本介绍来自https://github.com/tianzhihen/projectDescribe/blob/master/qiniu_Qt/aboutcontent.md]
